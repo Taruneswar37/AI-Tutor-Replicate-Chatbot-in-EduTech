@@ -7,3 +7,6 @@ faiss-cpu
 langchain
 python-multipart
 openai
+langchain
+langchain-community
+langchain-text-splitters
