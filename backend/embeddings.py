@@ -24,6 +24,7 @@ def process(file_path):
     return chunks, embeddings
 
 if __name__ == "__main__":
+    "Example usage"
     file_path = r"D:\Tarun\video text\data\uploads\VID-20250916-WA0017.mp4"
     chunks, embeddings = process(file_path)
     print("\nChunks:\n", chunks)
